@@ -1,4 +1,4 @@
-import { IconAvatar, IconCart, IconHeart } from "../components/shared/Icons";
+import { IconAvatar, IconCart, IconHeart } from "./shared/Icons";
 //import NavBottom from "./NavBottom";
 
 const Navbar = () => {
