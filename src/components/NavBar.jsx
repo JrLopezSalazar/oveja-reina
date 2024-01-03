@@ -1,5 +1,5 @@
 import { IconAvatar, IconCart, IconHeart } from "./shared/Icons";
-//import NavBottom from "./NavBottom";
+
 
 const Navbar = () => {
   return (
